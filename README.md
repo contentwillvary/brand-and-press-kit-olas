@@ -1,8 +1,7 @@
 # Olas Brand and Press Kit
 This Olas Brand and Press Kit summarizes the Olas DAO's Brand Guidelines (inc. use of language and assets) and Information about Olas, formerly known as Autonolas (e.g. for Press Releases).
 
-![Olas Brand](https://github.com/contentwillvary/brand-and-press-kit-olas/assets/106149667/8f65fd6d-f571-45f4-a843-2e6f1e75482c)
-
+![Olas Brand](https://github.com/user-attachments/assets/25a7be1d-8bc8-4e48-83b5-bab9b27c04bd)
 
 ## Brand Guidelines 
 
@@ -17,6 +16,7 @@ Do:
 * Link to [olas.network](https://olas.network) in articles, blog posts or other media mentions describing Olas' own work.
 * Publicly claim only relationships to the Olas DAO itself that have been recorded in an [on-chain vote](https://boardroom.io/autonolas/overview) or [off-chain vote](https://snapshot.org/#/autonolas.eth), describing these relationships as they are expressed therein. Request DAO contributors' written approval prior to publicly mentioning an existing relationship between you and them, e.g. a partnership, sponsorship, or grant program. 
 * Use the specific language used in writing by the DAO in an on/off-chain vote and by DAO contributors regarding the relationship, e.g. 'we have received a grant from Valory, co-creators of Olas' or 'we are sponsoring an event with [name here], an Olas founding member'.
+* Use the correct version of the Olas logo, i.e. the logo marked 'default', unless it is for listings or pre-approved co-marketing and therefore requires the relevant logo versions.
 * Those building on Olas must use descriptive phrases that make it clear your product is developed on Olas technology (“powered by” is preferred, but “built on” can also be used). Avoid phrases that imply an official partnership with Olas (“built with”, “developed with”, “partnered with”).
 Your company or product name should appear first, followed by Olas and the autonomous service or component name. Using 'Olas' in product or app names is prohibited because it confuses end users, e.g. 'OlasBots', etc.
 
@@ -94,7 +94,7 @@ When mentioning the Olas DAO or its members or contributors in your press materi
 
 ### Key information
 #### One liner
-* Olas enables everyone to own and monetize their AI agents. It is the platform that enables true co-ownership of AI. 
+* Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. 
 
 #### Boilerplate
 * Olas is the platform that enables true co-ownership of AI. With Olas’ [Pearl](https://olas.network/pearl), the first “AI Agent App Store”, any consumer with a laptop can use AI agents they truly own. With Olas’ [Mech Marketplace](https://olas.network/mech-marketplace), the “AI Agent Bazaar”, businesses can put their AI agent up for hire to earn crypto and tap into other AI agents’ services. Today, Olas’ AI Agents serve diverse use cases - from prediction markets and asset management to influencer agents - autonomously creating valuable outcomes. The [OLAS utility token](https://olas.network/olas-token) provides access to the platform’s benefits and coordinates agent interactions in entire AI Agent economies. Launched in 2021 as one of the first Crypto x AI projects, today, Olas powers the largest AI agent economies with millions of transactions. Learn more at [olas.network](https://olas.network).
