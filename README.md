@@ -67,7 +67,7 @@ By using these Badges you agree to the Olas DAO's Usage Terms (see below).
 
 ### Logos 
 By using the Olas DAO's Logos you are agreeing to the its Usage Terms (see below).
-* [Download the logos here](https://drive.google.com/drive/folders/1mQqehTDhwASh0o7GvGi4s_NNJbyal_Ya?usp=drive_link).
+* [Download the logos here](https://github.com/contentwillvary/brand-and-press-kit-olas/releases/download/v1.0/olas-brand-assets.zip).
 
 | Do | Do not | 
 |---|---|
@@ -103,7 +103,7 @@ When mentioning the Olas DAO or its members or contributors in your press materi
 ##### The Olas ecosystem
 * The Olas ecosystem boasts more than 1000+ agents, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#ecosystem).
 ##### The Olas Protocol
-* [Olas Protocol](https://olas.network/protocol) grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
+* [Olas Protocol](https://olas.network/protocol) grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/main/content/aips/aip-1/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
 ##### The Olas Stack
 * [Olas Stack](https://olas.network/stack) is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
 ##### The name - Olas/Autonolas?
@@ -137,7 +137,7 @@ When mentioning the Olas DAO or its members or contributors in your press materi
      * [Circulating Supply](https://api.olas.autonolas.tech/circulating_supply)
 ##### Social links
   * [Community hub inc. co-owned AI marketing tool](https://contribute.olas.network)
-  * [Twitter](https://twitter/autonolas)
+  * [Twitter](https://x.com/autonolas)
   * [Discord](https://discord.com/invite/z2PT65jKqQ)
   * [Youtube](https://www.youtube.com/@autonolas)
 
