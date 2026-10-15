@@ -92,6 +92,8 @@ The term “Marks” includes anything the Olas DAO uses to identify the Olas DA
 ## Information about Olas & Press Releases 
 When mentioning the Olas DAO or its members or contributors in your press materials, it is kindly asked that you review the following information.
 
+**Press enquiries:** please contact [press@valory.xyz](mailto:press@valory.xyz).
+
 ### Key information
 #### One liner
 * Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. 
@@ -145,4 +147,5 @@ When mentioning the Olas DAO or its members or contributors in your press materi
 * [Recent video appearances](https://olas.network/videos)
 
 ## Further Questions
-* If you have any questions about this Press Kit, please reach out in the [Olas Discord](https://discord.com/invite/z2PT65jKqQ).
+* For press enquiries, please contact [press@valory.xyz](mailto:press@valory.xyz).
+* For other questions about this Press Kit, please reach out in the [Olas Discord](https://discord.com/invite/z2PT65jKqQ).
